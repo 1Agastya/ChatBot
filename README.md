@@ -10,5 +10,7 @@ Thing to notify in my project
 
    ******************************************************************************
    This is my first project  bot ,"How a chatbot work "
+   *************************Most imp part **************************************
+    Make your account in Brainshop .... if u don`t than there  will no respone form bot 
    
    
